@@ -1,0 +1,29 @@
+=========================================================
+  GLOBAL SOLUTION — MODELAGEM LINEAR PARA AM
+  FIAP · Ciência da Computação · Turmas 1CC · 2025
+=========================================================
+
+INTEGRANTES DO GRUPO
+---------------------
+Nome completo: [SEU NOME COMPLETO AQUI]
+Matrícula:     [SEU NÚMERO DE MATRÍCULA]
+
+(Se houver mais integrantes, adicione abaixo:)
+Nome completo: 
+Matrícula:     
+
+Nome completo: 
+Matrícula:     
+
+REPOSITÓRIO GITHUB
+-------------------
+Link: https://github.com/[SEU_USUARIO]/[NOME_DO_REPOSITORIO]
+
+CONTEÚDO DO REPOSITÓRIO
+-------------------------
+- README.md              → Descrição da solução desenvolvida
+- dataset.csv            → Base de dados (Satellite Telemetry — Kaggle)
+- GS_MLAM.ipynb          → Código-fonte Python (notebook)
+- Relatorio_GS_MLAM.pdf  → Relatório estatístico final
+
+=========================================================
